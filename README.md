@@ -1,4 +1,4 @@
-### Hi there 👋
+k### Oiii eu  sou Felipe Andrade,  desenvolvedor front -end
 
 <!--
 **felipe0402/felipe0402** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
