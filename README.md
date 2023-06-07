@@ -16,4 +16,4 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
 <a href="https://www.linkedin.com/in/felipe-andrade-75b517232/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><a href="/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>  <a href="/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   
 </div>
-![snake gif](https://github.com/felipe0402/felipe0402/blob/output/github-contribution-grid-snake.svg)
+  ![ Animação de cobra ](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
