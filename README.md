@@ -9,7 +9,7 @@
  </div>
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=felipe0402&bg_color=000000&color=0008ff&line=0008ff&point=0008ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)  
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=felipe0402&bg_color=000000&color=33e901&line=33e901&point=33e901&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  ### Skills:
  ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&logoColor=FF8C00&labelColor=0D1117)&nbsp;
  ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
