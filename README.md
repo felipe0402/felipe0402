@@ -1,31 +1,28 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1ebe28&height=120&section=header"/>
+<h1> Hi, I'm Gustavo Miranda! 💻</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1b9e24&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Felipe+Andrade;I'm+18+years+old;I'm+from+Brazil;I'm+Studying+Front-End+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
-<div align="center"> 
-<a href="https://www.instagram.com/felipe_and7/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href = "felipeand.webdev@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/felipe-andrade-75b517232/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+<div> 
+     <a href="/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+     <a href = "mailto:felipebaiano04@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"</a>
+     <a href="https://www.linkedin.com/in/felipe-and7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+     <a href="https://wa.me/+5562998407863" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
  </div>
+<h2 align="left">
+This is my favorite environment, where ideas and innovation become code.
+</h2>
+<p>I'm a developer fascinated by technology! Since childhood, when I had my first contact with computing, I have explored and discovered more and more about this fascinating field. I believe that technology offers incredible opportunities to improve people's lives. My dream is to travel the world, sharing my knowledge and gaining new experiences. I believe that access to knowledge is fundamental for everyone, and I also have the desire to live in Suíça or Canada for a period of time.</p>
 
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=felipe0402&bg_color=000000&color=33e901&line=33e901&point=33e901&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
- ### Skills:
- ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&logoColor=FF8C00&labelColor=0D1117)&nbsp;
- ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
- ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
- ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-
-  ### Study in the future:
- ![Typescript](https://img.shields.io/badge/-Typescript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117)&nbsp;
- ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
- ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
- 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{betafontes}/count.svg" /></p> 
+<p>You can contact me by email:<a href="mailto:felipebaiano04@gmail.com">felipebaiano04@gmail.com</a>.</p> 
 <br>
-</div>
+
+<p>I have knowledge in: </p>
+<div align="left">
+
+[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,nodejs,react,git,figma,vscode)](https://skillicons.dev)
+
+  </div>
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1ebe28&height=120&section=footer"/>
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=felipe0402&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=felipe0402&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=felipe0402&theme=nord_dark) |
+| :-: | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felipe0402&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=felipe0402&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
+| :---------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
